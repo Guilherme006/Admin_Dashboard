@@ -2,6 +2,8 @@
 
 This project was developed with the aim of assisting a Non-Governmental Organization (NGO) in financial management, providing a clear and detailed view of income and expenses through an administrative dashboard. Furthermore, we implemented functionalities for managing subscribers of the plans proposed for the NGO, contributing to a more efficient and organized administration. The interfaces were created using [shadcn/ui][shadcn/ui].
 
+![hero-image]
+
 ## Functionalities
 
 ### Administrative Dashboard
@@ -54,3 +56,6 @@ This project was developed with the aim of assisting a Non-Governmental Organiza
 [tailwind]: https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge
 [visual-studio-code]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge
 [shadcn-ui]: https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge
+
+<!-- Images -->
+[hero-image]: /images/Dashboard.png
